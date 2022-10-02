@@ -1,0 +1,4 @@
+INSERT INTO Learners(learner_id, learner_first_name, learner_last_name, learner_email, learner_password, course_id) VALUES(1, 'joey','tribbiani','joey@gmail.com','joseph', null);
+INSERT INTO Learners(learner_id, learner_first_name, learner_last_name, learner_email, learner_password, course_id) VALUES(2, 'chandler','bing','chandler@gmail.com','chanandler', null);
+INSERT INTO Learners(learner_id, learner_first_name, learner_last_name, learner_email, learner_password, course_id) VALUES(3, 'rachel','green','rachel@gmail.com','gogreen', null);
+INSERT INTO Learners(learner_id, learner_first_name, learner_last_name, learner_email, learner_password, course_id) VALUES(4, 'phoebe','buffay','phoebe@gmail.com','regina', null);
